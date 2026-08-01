@@ -14,4 +14,4 @@
 
 ## API Endpoint
 
-* GET /hello => Hello HisabDo!
+* GET /hello => Hello World!

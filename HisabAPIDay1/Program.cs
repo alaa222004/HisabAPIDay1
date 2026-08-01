@@ -30,6 +30,8 @@ namespace HisabAPIDay1
 
             app.MapControllers();
 
+            app.MapGet("/api/hello", () => "Hello, World!");
+
             app.Run();
         }
     }
